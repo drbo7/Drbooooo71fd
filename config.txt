@@ -1,4 +1,4 @@
-token=BOT_TOKEN
+token=NTIwOTUzMDgwNDczNDUyNTY0.Du1XDA.8KB45usOrGax6BslLYqIFAPQOVY
 owner=246256928374784001
 prefix=1
 game= 1play  | Lions Throne
